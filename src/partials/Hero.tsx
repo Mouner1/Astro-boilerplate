@@ -10,54 +10,43 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Mouner Dabjan</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          I’m a <strong>grassroots basketball operator</strong> and a graduate{' '}
+          <strong>engineering student</strong> passionate about
+          <strong> leadership</strong>, <strong> logistics</strong>, and{' '}
+          <strong> data-driven operations</strong>. I’ve built communities, led
+          leagues, and developed tools to streamline programs and enhance
+          impact. Now, I’m ready to bring that same energy to the{' '}
+          <strong>NBA</strong> 🏀.
         </>
       }
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src="/assets/images/mouner-avatar.svg"
           alt="Avatar image"
           loading="lazy"
         />
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://github.com/Mouner1" target="_blank">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
-              alt="Twitter icon"
+              src="/assets/images/github-icon.png"
+              alt="Github icon"
             />
           </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/facebook-icon.png"
-              alt="Facebook icon"
-            />
+          <a href="mailto:mouner.be@gmail.com">
+            <HeroSocial src="/assets/images/gmail-icon.png" alt="Gmail icon" />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/mounerdabjan/" target="_blank">
             <HeroSocial
               src="/assets/images/linkedin-icon.png"
               alt="Linkedin icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/youtube-icon.png"
-              alt="Youtube icon"
             />
           </a>
         </>
