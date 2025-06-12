@@ -1,148 +1,77 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Typography example
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-06T00:00:00Z
-imgSrc: '/assets/images/image-post.jpeg'
-imgAlt: 'Image post'
+title: "Court Ops: Running a League, Not Just Games"
+description: "What started as a student job became four seasons of real basketball operations, from scheduling to refereeing to conflict management."
+pubDate: 2025-05-23
+imgSrc: '/assets/images/basketball-operator.jpg'
+imgAlt: 'Basketball league scheduling illustration'
 ---
 
-This is a paragraph. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+### 🏀 From Ref to Operator
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+When I first joined the University of Guelph's intramural basketball program, I was just looking to be involved. Four seasons later, I had become a go-to referee, operations leader, and systems builder, helping run a league of over **50 teams** across recreational and competitive tiers.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-## Headings
-
-# H1 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-## H2 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-### H3 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-#### H4 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-##### H5 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-###### H6 For example
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-## Emphasis
-
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
-## Horizontal separator
-
-This is a horizontal separator:
+And I loved it.
 
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+### 📅 Scheduling the Season
+
+As a site admin on **IMLeagues.ca**, I built and managed weekly schedules for dozens of teams, each with its own availability, division, and preferred competitiveness.
+
+I handled:
+- Team registration and confirmation
+- Weekly schedule creation
+- Court assignments
+- Email communication with all captains
+
+Every Sunday felt like game day... because it was. I didn't just make sure the league ran, I made sure it ran **smoothly**.
 
 ---
 
-## List types
+### 🧑‍⚖️ Game Day: On the Whistle
 
-### Ordered list
+With multiple games happening simultaneously, I rotated roles with other refs, but as I gained experience, I became a **senior figure**.
 
-1. List item 1
-2. List item 2
-   1. Nested list item A
-   2. Nested list item B
-3. List item 3
+By Season 2, I was:
+- Assisting newer refs with tough in-game calls
+- Resolving player disputes quickly and professionally
+- Managing game flow for high-intensity matchups
 
-### Unordered list
+The more competitive the game, the higher the stakes, and that’s where I thrived.
 
-- List item
-- List item
-  - Nested list item
-  - Nested list item
-    - Double nested list item
-    - Double nested list item
-- List item
+---
 
-### Mixed list
+### 📊 Tracking the Game Like Ops
 
-1. First ordered list item
-2. Another item
-   - Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-4. And another item.
+Officiating wasn’t just about blowing whistles. I tracked:
+- **Scores**
+- **Fouls**
+- **Standout player stats** for MVP recognition
 
-## Links
+This data helped teams **feel seen**, and drove player engagement. When someone plays their heart out and gets recognized for it? That’s what brings them back next season.
 
-[Inline-style link](https://www.google.com)
+And that showed: **player retention increased by 15%** over my time in the role.
 
-[Inline-style link with title](https://www.google.com "Google's Homepage")
+---
 
-[Reference-style link][arbitrary case-insensitive reference text]
+### 🏆 Recognition That Meant Something
 
-[You can use numbers for reference-style link definitions][1]
+Throughout my 4 seasons, I received **multiple Official of the Week awards**, not just for consistent rule enforcement, but for managing **sportsmanship**, **conflict resolution**, and **smooth ops**.
 
-Or leave it empty and use the [link text itself].
+It wasn’t about blowing the whistle. It was about making the game **better**.
 
-Some text to show that the reference links can follow later.
+---
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+### 🔁 What I Took Away
 
-## Images
+Running a league every week taught me more than any classroom could:
+- Scheduling and logistics are living systems
+- People problems will always exist, how you manage them is your legacy
+- Referees are unsung operators of the game
 
-Images included in _\_posts_ folder are lazy loaded.
+When I think about basketball operations, I don’t just think about clipboards and court time.  
+I think about **systems, fairness, communication, and care**.
 
-Inline-style:
-![alt text](/src/images/random.jpeg 'Logo Title Text 1')
+And I’m ready to bring all of that to the next level, court-side with the NBA.
 
-## Table
-
-| Tables        |      Are      | Cool |
-| ------------- | :-----------: | ---: |
-| col 3 is      | right-aligned | 1600 |
-| col 2 is      |   centered    |   12 |
-| zebra stripes |   are neat    |    1 |
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
-## Syntax highlight
-
-```javascript
-var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
-
-```python
-s = "Python syntax highlighting"
-print s
-```

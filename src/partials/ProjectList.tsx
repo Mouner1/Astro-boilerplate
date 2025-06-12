@@ -20,7 +20,7 @@ const ProjectList = () => (
         <Project
           name="University Basketball League Operator"
           description="I ran weekly leagues for 200+ students across 4 seasons. Scheduling conflicts? I fixed them. Fairness issues? Built rotation logic. No-shows? Created check-in sheets. I treated every league day like game day and used feedback to boost retention by 15%. Click to read more!"
-          link="/"
+          link="/posts/sixth-post/"
           img={{
             src: '/assets/images/basketball.svg',
             alt: 'Basketball League Ops',
@@ -35,7 +35,7 @@ const ProjectList = () => (
         />
         <Project
           name="Automation Developer @ Fidelity"
-          description="Automated practice scheduling, inventory tracking, and athlete data collection for Fidelity Sports Group using Power Platform and Python, saving 4,000+ hours yearly. Click to read more."
+          description="Automated practice scheduling, inventory tracking, and athlete data collection for Fidelity Sports Group using Power Platform and Python, saving 4,000+ hours yearly."
           link="/"
           img={{
             src: '/assets/images/data.svg',
@@ -52,7 +52,7 @@ const ProjectList = () => (
         <Project
           name="Middle Eastern Basketball Tournament"
           description="Organized a 150+ person, gender-inclusive tournament with $5K budget, full logistics, and safety planning. Reflected NBA-style community and social impact values. Click to read more."
-          link="/"
+          link="/posts/forth-post/"
           img={{
             src: '/assets/images/basketballevent.svg',
             alt: 'Community Tournament',
