@@ -15,13 +15,16 @@ const Hero = () => (
       }
       description={
         <>
-          I’m a <strong>grassroots basketball operator</strong> and a graduate{' '}
-          <strong>engineering student</strong> passionate about
-          <strong> leadership</strong>, <strong> logistics</strong>, and{' '}
-          <strong> data-driven operations</strong>. I’ve built communities, led
-          leagues, and developed tools to streamline programs and enhance
-          impact. Now, I’m ready to bring that same energy to the{' '}
-          <strong>NBA</strong> 🏀.
+          I’m a <strong>full-stack developer</strong> and{' '}
+          <strong>engineering graduate</strong> passionate about{' '}
+          <strong>automation</strong> 🤖, <strong>data-driven solutions</strong>{' '}
+          📊, and <strong>logistics at scale</strong> 📦. I’ve led grassroots
+          basketball leagues and built the tools behind them, streamlining
+          operations with code, automating workflows, and enhancing user
+          experiences. This portfolio brings together my technical skills, from{' '}
+          <strong>React</strong> and <strong>Python</strong> to{' '}
+          <strong>Power Platform</strong> and <strong>Azure</strong>, with
+          real-world leadership that drives impact through software.
         </>
       }
       avatar={
